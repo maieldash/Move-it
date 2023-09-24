@@ -1,2 +1,2 @@
 # Move-it
-![Screenshot](./assets/images/move-it-webpage.png)
+![Screenshot](assets/images/Move-it-webpage.png)
