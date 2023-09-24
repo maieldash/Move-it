@@ -1,2 +1,2 @@
 # Move-it
-![Uploading Move-it-webpage.png…]()
+![plot](./assets/images/move-it-webpage.png)
